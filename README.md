@@ -1,6 +1,6 @@
 # smashgg-japanese-romanizer
 
-*This is a Chrome extension and is therefore only usable on Chrome (and apparently Opera)*
+*This is a Chrome extension and is therefore made to be usable on Chrome. Apparently both Firefox and Opera have ways of supporting Chrome extensions too - I don't know how those work, but it sounds like it's fairly simple.*
 
 How to install:
 
