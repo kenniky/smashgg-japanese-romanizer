@@ -1,3 +1,3 @@
 # smashgg-japanese-romanizer
 
-Distributing .crx files does not work so I'm working on publishing to the Chrome Web Store.
+Contains irregular romanizations for use with smash.gg Japanese Tag Romanizer, found on Chrome and Firefox.
