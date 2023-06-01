@@ -1,4 +1,0 @@
-dateparser
-geopy
-levenshtein
-requests
